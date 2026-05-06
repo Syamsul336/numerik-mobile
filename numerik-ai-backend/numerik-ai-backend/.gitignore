@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+
+# Environment variables (PENTING: jangan commit API key!)
+.env
+.env.local
+.env.production
+
+# Vercel
+.vercel
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+
+# Editor
+.vscode/
+.idea/

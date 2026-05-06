@@ -1,0 +1,16 @@
+{
+  "name": "numerik-ai-backend",
+  "version": "1.0.0",
+  "description": "Backend proxy untuk AI Asisten di aplikasi Numerik Mobile",
+  "main": "api/chat.js",
+  "type": "module",
+  "engines": {
+    "node": ">=18.x"
+  },
+  "scripts": {
+    "dev": "vercel dev",
+    "deploy": "vercel --prod"
+  },
+  "keywords": ["vercel", "serverless", "gemini", "ai", "numerik"],
+  "license": "MIT"
+}
