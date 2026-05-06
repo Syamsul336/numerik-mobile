@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Numerik",
-    "slug": "numerik",
+    "slug": "numerik-mobile",
     "version": "2026.01",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -39,7 +39,7 @@
         "origin": false
       },
       "eas": {
-        "projectId": "15fc0809-aee3-4700-81b7-16302406d829"
+        "projectId": "7b4418a0-d3d2-49f6-8342-58ff149dc491"
       }
     }
   }

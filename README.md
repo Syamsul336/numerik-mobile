@@ -1,6 +1,6 @@
 # Numerik v3.1
 
-![Numerik App](assets/icon.png)
+<img src="assets/icon.png" alt="Numerik App" width="100" />
 
 **Aplikasi pembelajaran metode numerik interaktif** — Hitung integral, interpolasi, dan geometri dengan langkah-langkah yang jelas, plus AI asisten untuk bantu belajar.
 
